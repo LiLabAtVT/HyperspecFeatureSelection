@@ -30,6 +30,4 @@ xgboost (python package; Developed and tested with version 1.3.3)
 ○ ms_s32_peanut_ssr_feature_selection_distance_052521.ipynb: This script is for testing different feature selection methods in the scikit-learn library to select the top 10 wavelengths with and without a customized distance for the classification of peanut stem rot
 
 # Publication
-The manuscript has been submitted for a peer-reviewed journal,
-
-Xing Wei, Marcela Aguilera, David B. Langston Jr., Hillary L. Mehl, and Song Li. 2021. Identifying optimal wavelengths to detect stem rot of peanut using hyperspectral sensor and machine learning. (Submitted)
+Please cite: Wei, X.; Johnson, M.A.; Langston, D.B., Jr.; Mehl, H.L.; Li, S. Identifying Optimal Wavelengths as Disease Signatures Using Hyperspectral Sensor and Machine Learning. Remote Sens. 2021, 13, 2833. https://doi.org/10.3390/rs13142833
